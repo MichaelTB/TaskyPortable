@@ -1,0 +1,16 @@
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\Tasky.exe
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\SQLite-net.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\SQLitePCL.raw.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\TaskyPortableLibrary.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\TaskyPortableLibrary.pdb
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\SQLite-net.dll.mdb
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\actool\_PartialAppManifest.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\coremlc\_PartialAppManifest.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\optimized\
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\TaskyiOS.csprojResolveAssemblyReference.cache
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\TaskyiOS.csproj.CoreCompileInputs.cache
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\TaskyiOS.csproj.CopyComplete
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\Release\Tasky.exe
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\Release\TaskyPortableLibrary.dll.mdb

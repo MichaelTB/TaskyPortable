@@ -1,0 +1,16 @@
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\Tasky.exe
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\SQLite-net.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\SQLitePCL.raw.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\TaskyPortableLibrary.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\TaskyPortableLibrary.pdb
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\TaskyPortableLibrary.dll.mdb
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\bin\iPhoneSimulator\Release\SQLite-net.dll.mdb
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\coremlc\_PartialAppManifest.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\TaskyiOS.csproj.CoreCompileInputs.cache
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\TaskyiOS.csproj.CopyComplete
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\Tasky.exe
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyiOS\obj\iPhoneSimulator\Release\TaskyiOS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\bin\Release\TaskyPortableLibrary.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\bin\Release\TaskyPortableLibrary.pdb
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\bin\Release\SQLite-net.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\bin\Release\SQLitePCL.raw.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\obj\Release\TaskyPortableLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\obj\Release\TaskyPortableLibrary.csproj.CopyComplete
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\obj\Release\TaskyPortableLibrary.dll
+C:\Users\mibaker\Source\Repos\TaskyPortable\TaskyPortableLibrary\obj\Release\TaskyPortableLibrary.pdb
